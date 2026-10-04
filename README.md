@@ -2,15 +2,19 @@
 
 A simple and interactive Tic-Tac-Toe (XO) game built with Flutter and Dart.
 
-## ✨ Features
+## 📱 Screenshots
 
-- 👤 Two-player gameplay
-- ✏️ Player name customization
-- 🏆 Winner detection
-- 🤝 Draw detection
-- 🔄 Restart game functionality
-- 🎨 Clean and simple UI
-- 📱 Responsive mobile interface
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/32a99fd0-243f-4288-a737-3ce0c18eca09" width="250"/>
+  <img src="https://github.com/user-attachments/assets/bf12599e-8d8d-4ead-8fae-78d6f26f8e2c" width="250"/>
+  <img src="https://github.com/user-attachments/assets/5eaff551-dfc1-4ea4-a8cc-b9a7334e96d5" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f71952d5-bc46-4d3b-b3b3-8f78918aaa05" width="250"/>
+  <img src="https://github.com/user-attachments/assets/f5d62259-63e0-41fb-8ab0-ee3f86bfcbd6" width="250"/>
+  <img src="https://github.com/user-attachments/assets/303a942b-cc66-4c34-81a7-97ef56bd89fa" width="250"/>
+</p>
 
 ## 🛠️ Technologies
 
@@ -18,29 +22,11 @@ A simple and interactive Tic-Tac-Toe (XO) game built with Flutter and Dart.
 - Dart
 - Material Design
 
-## 📱 Screens
+## ✨ Features
 
-### Home Screen
-Players can enter their names before starting the game.
-
-### Game Screen
-Two players can play against each other and the game automatically detects the winner or a draw.
-
-## 🎯 Purpose
-
-This project was created as a practice project to improve my Flutter and Dart skills, especially:
-
-- Widget building
-- Stateful widgets
-- User input and validation
-- Navigation
-- Passing data between screens
-- Game logic
-- UI design
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone YOUR_REPOSITORY_URL
+- Two-player gameplay
+- Player name customization
+- Winner detection
+- Draw detection
+- Game restart functionality
+- Clean and responsive UI
